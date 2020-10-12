@@ -5,6 +5,8 @@ public class ApexClassForTests {
 
 		public boolean cRecursive = false;
         
-        public String pubicString { get; set; }
+        public String pubicString { get; set; } 
+	    
+	    .set
     }
 }
